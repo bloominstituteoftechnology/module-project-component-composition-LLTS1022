@@ -53,5 +53,18 @@
   "engines": {
     "node": ">=16.x",
     "npm": ">=8.x"
-  }
+  },
+  "description": "This will be a two-module project. In it, you will consume the NASA API to fetch the \"Astronomy Photo Of The Day\" or APOD. Once you fetch the data, you will build a few components that will render different pieces of data in your interface.",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloominstituteoftechnology/module-project-component-composition-LLTS1022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloominstituteoftechnology/module-project-component-composition-LLTS1022/issues"
+  },
+  "homepage": "https://github.com/bloominstituteoftechnology/module-project-component-composition-LLTS1022#readme"
 }
